@@ -1,0 +1,11 @@
+root = true
+
+[*.cs]
+dotnet_diagnostic.CA2000.severity = warning
+dotnet_diagnostic.CA2213.severity = warning
+dotnet_diagnostic.CA1816.severity = warning
+dotnet_diagnostic.ASYNC0001.severity = warning
+dotnet_diagnostic.ASYNC0005.severity = warning
+dotnet_diagnostic.CA2012.severity = suggestion
+dotnet_diagnostic.CA1825.severity = suggestion
+dotnet_diagnostic.CS0168.severity = warning

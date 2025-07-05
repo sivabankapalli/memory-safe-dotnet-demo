@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AnalyzerDemo/1.0.0": {
+        "runtime": {
+          "AnalyzerDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnalyzerDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
