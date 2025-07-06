@@ -8,4 +8,4 @@ This repository contains multiple small demo projects for .NET memory leaks and 
 
 Open any project in Visual Studio 2022+, build, and observe warnings in the Error List.
 
-See [your-blog-link-here] for the full article.
+See [Blog](https://medium.com/@siva_bankapalli/memory-safe-net-patterns-pitfalls-and-production-proven-fixes-f017ca67a6ad) for the full article.
